@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1490038967 source:d:\cpp\advcg1\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	"algebra3.h"
+	"imageIO.h"
+	"data.h"
+
+1427756875 d:\cpp\advcg1\algebra3.h
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+
+1427756875 d:\cpp\advcg1\imageio.h
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1427756875 source:d:\cpp\advcg1\algebra3.cpp
+	<math.h>
+	"algebra3.h"
+	<ctype.h>
+
+1490034107 d:\cpp\advcg1\data.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<vector>
+	"algebra3.h"
+
